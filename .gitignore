@@ -1,4 +1,3 @@
-**/*.csv
+.csv
 .ipynb_checkpoints
 .idea
-saved_model
