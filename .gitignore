@@ -1,3 +1,7 @@
+**/.ipynb_checkpoints/*
+**/.idea/*
 .csv
-.ipynb_checkpoints
-.idea
+XYRaw
+XYScaled
+best
+saved_model
