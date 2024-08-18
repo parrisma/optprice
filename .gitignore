@@ -10,3 +10,5 @@ saved_model
 MinMaxScaler
 MinMaxScalerBarrierType1
 MinMaxScalerBarrierType2
+**/bestOneOverFit*
+**/bestone/*
